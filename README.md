@@ -1,2 +1,7 @@
 # Milestone-4
-Lo-Fi Prototype, Usability Documentation, Progress Check-in
+
+Milestone 4 – Lo-Fi prototype, usability documentation, progress check-in 
+
+Due: November 15, 2018 
+
+Allocation: 4% 
